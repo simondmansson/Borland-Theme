@@ -1,8 +1,9 @@
 {
     "name": "borland",
-    "displayName": "Borland",
+    "displayName": "Borland-theme",
     "description": "Borland theme for visual studio code.",
     "version": "0.0.1",
+    "publisher": "Kalk",
     "engines": {
         "vscode": "^1.31.0"
     },
