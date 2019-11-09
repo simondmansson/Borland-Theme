@@ -2,7 +2,7 @@
     "name": "borland",
     "displayName": "Borland-theme",
     "description": "Borland theme for visual studio code.",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "Kalk",
     "repository": "https://github.com/Kalk88/Borland-Theme",
     "engines": {
