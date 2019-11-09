@@ -16,7 +16,7 @@
             {
                 "label": "Borland",
                 "uiTheme": "hc-black",
-                "path": "./themes/Borland-color-theme.json"
+                "path": "./themes/Borland.color-theme.json"
             }
         ]
     }
